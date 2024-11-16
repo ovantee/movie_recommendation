@@ -1,0 +1,12 @@
+streamlit
+pandas
+requests
+Image
+BytesIO
+seaborn
+matplotlib
+WordCloud
+plotly
+airflow
+psycopg2
+selenium
