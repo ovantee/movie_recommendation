@@ -1,4 +1,4 @@
-![Overview of the movie recommendation system pipeline](image_sample/pipeline.png)
+![Overview of the movie recommendation system pipeline](images_sample/pipeline.png)
 
 # Movie Recommendation System
 
